@@ -1,0 +1,97 @@
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Imager.exe
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Imager.exe.config
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\RawToRavi.exe
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\CultureControl.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Compression.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\CustomizeToolStrip.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Diagram.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\DoubleTrackbar.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\HIDComm.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\HIDDevice.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Imager.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\ImagerRemoteDevice.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Localizer.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\OptImger.Avi.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\OptImger.Avi2.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\OptImger.Downloads.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\OptImger.FilterGraph.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\OptImger.Merger.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\OptImger.OptionsForm.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\OptImger.Types.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\OptImger.Helper.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\OptWinFormsUI.Docking.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Ruler.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\SelectionTrackbar.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Microsoft.DirectX*.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\d3dx9_32.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\en\Imager.resources.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\wmvVideo.dll
+program_files##C:\windows\system32\OF_MIP.dll
+program_files##C:\windows\system32\OF_OVL.dll
+program_files##C:\windows\system32\OF_POVL.dll
+program_files##C:\windows\system32\OF_PSS.dll
+program_files##C:\windows\system32\OF_QG.dll
+program_files##C:\windows\system32\OF_Cl2C.dll
+program_files##C:\windows\system32\OF_Dummy.dll
+program_files##C:\windows\system32\OF_FR.dll
+program_files##C:\windows\system32\OF_GPS.dll
+program_files##C:\windows\system32\OF_SOPT.dll
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\formats.def
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Palette\*.dat
+program_files##C:\Program Files (x86)\Optris GmbH\PI Connect\Corporate.*
+doc_files##C:\Program Files (x86)\Optris GmbH\PI Connect\documentation\Troubleshooting PIConnect 2017-03-A.pdf
+doc_files##C:\Program Files (x86)\Optris GmbH\PI Connect\documentation\Datasheets
+doc_files##C:\Program Files (x86)\Optris GmbH\PI Connect\documentation\Manuals
+doc_files##C:\Program Files (x86)\Optris GmbH\PI Connect\documentation\Technical Notes
+loc_language##C:\Program Files (x86)\Optris GmbH\PI Connect\de
+loc_language##C:\Program Files (x86)\Optris GmbH\PI Connect\es-ES
+loc_language##C:\Program Files (x86)\Optris GmbH\PI Connect\fr-FR
+loc_language##C:\Program Files (x86)\Optris GmbH\PI Connect\it
+loc_language##C:\Program Files (x86)\Optris GmbH\PI Connect\ko
+loc_language##C:\Program Files (x86)\Optris GmbH\PI Connect\pl
+loc_language##C:\Program Files (x86)\Optris GmbH\PI Connect\ru
+loc_language##C:\Program Files (x86)\Optris GmbH\PI Connect\tr-TR
+loc_language##C:\Program Files (x86)\Optris GmbH\PI Connect\zh-CN
+connect_sdk##C:\Program Files (x86)\Optris GmbH\PI Connect\Connect SDK\Lib
+connect_sdk##C:\Program Files (x86)\Optris GmbH\PI Connect\Connect SDK\Sample VBA-Word
+connect_sdk##C:\Program Files (x86)\Optris GmbH\PI Connect\Connect SDK\Samples C#
+connect_sdk##C:\Program Files (x86)\Optris GmbH\PI Connect\Connect SDK\Samples C++
+connect_sdk##C:\Program Files (x86)\Optris GmbH\PI Connect\Connect SDK\Samples VC++ .net
+sample_files##C:\Users\Public\Documents\Imager Samples\Brake disc.ravi
+sample_files##C:\Users\Public\Documents\Imager Samples\Combustion process.ravi
+sample_files##C:\Users\Public\Documents\Imager Samples\Electronic board.ravi
+sample_files##C:\Users\Public\Documents\Imager Samples\Image_Hand.csv
+sample_files##C:\Users\Public\Documents\Imager Samples\Image_Hand.tiff
+sample_files##C:\Users\Public\Documents\Imager Samples\Image_Hand_3D.xls
+sample_files##C:\Users\Public\Documents\Imager Samples\Image_Hand_Line.xls
+sample_files##C:\Users\Public\Documents\Imager Samples\Image_Hand_Linie.xls
+sample_files##C:\Users\Public\Documents\Imager Samples\Image_PCB.tiff
+sample_files##C:\Users\Public\Documents\Imager Samples\Sequence_carwheels.ravi
+sample_files##C:\Users\Public\Documents\Imager Samples\Sequence_drop.ravi
+sample_files##C:\Users\Public\Documents\Imager Samples\Sequence_drop_vis.ravi
+sample_files##C:\Users\Public\Documents\Imager Samples\Sequence_LED_Holder.csv
+sample_files##C:\Users\Public\Documents\Imager Samples\Sequence_LED_Holder.ravi
+sample_files##C:\Users\Public\Documents\Imager Samples\Sequence_LED_Holder.tiff
+sample_files##C:\Users\Public\Documents\Imager Samples\Sequence_LED_Holder_3D.xls
+sample_files##C:\Users\Public\Documents\Imager Samples\Steel workpiece with hole.ravi
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Bispectral transparent.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Critical range monitoring.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Economy.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Event grabber.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Inspection.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Linescanner 160_200.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Linescanner 4xx.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Linescanner self-triggered 160_200.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Linescanner self-triggered 4xx.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Process monitoring.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Scientific.xml
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\Snapshot sequence on alarm.xml
+translator_tool##C:\Users\user\Documents\Translator Tool\OptImager.*.resources
+translator_tool##C:\Program Files (x86)\Optris GmbH\PI Connect\Translator Tool\al.exe
+translator_tool##C:\Program Files (x86)\Optris GmbH\PI Connect\Translator Tool\alink.dll
+translator_tool##C:\Program Files (x86)\Optris GmbH\PI Connect\Translator Tool\alinkui.dll
+translator_tool##C:\Program Files (x86)\Optris GmbH\PI Connect\Translator Tool\Translator Tool.exe
+program_files##C:\windows\system32\ImagerIPC.dll
+program_files##C:\windows\system32\ImagerIPC2.dll
+program_files##C:\windows\system32\ImagerIPC2x64.dll
+layouts##C:\Users\user\AppData\Roaming\Imager\MeasuringLayout\*.xml
